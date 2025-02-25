@@ -1,4 +1,4 @@
-# Ecommerce do Goku - Trabalho de Desenvolvimento Web I - Fatec
+# Atividade Revisão JSON  - Trabalho de Desenvolvimento Web II - Fatec
 url do site:
 https://vinicius-martines-01.github.io/Goku_Ecommerce/
 
